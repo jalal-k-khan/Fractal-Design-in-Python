@@ -2,17 +2,6 @@
 
 A visual design application generating recursive fractal patterns programmatically. Developed for **Design Lab 01** as part of the BS (Computer Science) program at SEECS, NUST.
 
----
-
-## 👤 Student Information
-
-- **Name:** Muhammad Jalal Khan
-- **Registration Number:** [Insert Registration / Student ID]
-- **Course:** Design Lab 01 (BS Computer Science)
-- **Institution:** School of Electrical Engineering & Computer Science (SEECS), NUST[cite: 1]
-
----
-
 ## 📌 Project Overview
 
 This project explores the mathematical principles of **self-similarity**, **recursion**, and **iteration** by generating custom visual fractal compositions programmatically[cite: 1].
@@ -26,9 +15,7 @@ This project explores the mathematical principles of **self-similarity**, **recu
 
 ## 🖼️ Visual Output
 
-![Fractal Demo Preview](preview.gif)
-
-*(Include a screenshot or GIF showing the rendered fractal output in the repository root)[cite: 1]*
+https://youtu.be/0erN0HLww-c
 
 ---
 
