@@ -4,12 +4,12 @@ A visual design application generating recursive fractal patterns programmatical
 
 ## 📌 Project Overview
 
-This project explores the mathematical principles of **self-similarity**, **recursion**, and **iteration** by generating custom visual fractal compositions programmatically[cite: 1].
+This project explores the mathematical principles of **self-similarity**, **recursion**, and **iteration** by generating custom visual fractal compositions programmatically
 
 ### Key Features
-- **Fractal Type Implemented:** [e.g., Mandelbrot Set / Julia Set / Sierpinski Triangle / Fractal Tree][cite: 1]
-- **Visual Design:** [e.g., Custom color gradients, zoom effect, or interactive controls][cite: 1]
-- **Environment:** Compatible with local Python execution and Google Colab[cite: 1].
+- **Fractal Type Implemented:** [e.g., Mandelbrot Set / Julia Set / Sierpinski Triangle / Fractal Tree]
+- **Visual Design:** [e.g., Custom color gradients, zoom effect, or interactive controls]
+- **Environment:** Compatible with local Python execution and Google Colab
 
 ---
 
@@ -21,10 +21,10 @@ https://youtu.be/0erN0HLww-c
 
 ## 🛠️ Tools, Languages & Libraries
 
-- **Language:** Python[cite: 1]
-- **Libraries Used:** Matplotlib / NumPy / Turtle (or specified graphics library)[cite: 1]
-- **Platform:** Google Colab / Local Python Runtime[cite: 1]
-- **Version Control:** Git & GitHub[cite: 1]
+- **Language:** Python
+- **Libraries Used:** Matplotlib / NumPy / Turtle (or specified graphics library)
+- **Platform:** Google Colab / Local Python Runtime
+- **Version Control:** Git & GitHub
 
 ---
 
